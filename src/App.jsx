@@ -429,7 +429,7 @@ export default function App() {
               </div>
               <h1 style={{ margin: 0, fontSize: 38, lineHeight: 1.1 }}>Recollida domèstica · La Goba, Puigventós i Terrafortuna</h1>
               <p className="muted" style={{ marginBottom: 0 }}>
-                Versió pro amb icona inspirada en el teu logo, preparada per publicar-se com a PWA a Vercel o Netlify.
+                Versió pro 2.
               </p>
             </div>
           </div>
